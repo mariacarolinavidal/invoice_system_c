@@ -26,5 +26,7 @@ The system is controlled via `stdin` using single-letter commands followed by ar
 - Custom sorting algorithms (native `qsort` was intentionally bypassed to build custom sorting logic).
 - Robust input parsing capable of handling multi-byte UTF-8 characters and dynamic string inputs with whitespaces (e.g., parsing `"Client Name"`).
 
+## Compilation
 
+$ gcc -O3 -Wall -Wextra -Werror -Wno-unused-result -o proj *.c
 
