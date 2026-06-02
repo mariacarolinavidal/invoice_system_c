@@ -20,15 +20,15 @@ This project consists of an invoice system developed in the C programming langua
 
 ## Structure
 
-- cart.c - Shopping cart operations.
-- commands.c - Acts as the command router and input parser.
-- functions.h - Centralized repository for all forward declarations and module function prototypes.
-- invoice.c - Invoice management.
-- system.c - Initializes the core data structures. Ensures a clean program termination by calling memory cleanup routines.
-- products.c - Handles the product catalog database.
-- project.c - The entry point of the application. It contains only the main function.
-- project.h - Global constants and structs. 
-- validations.c - The core validation layer of the architecture.
+- `cart.c` - Shopping cart operations.
+- `commands.c` - Acts as the command router and input parser.
+- `functions.h` - Centralized repository for all forward declarations and module function prototypes.
+- `invoice.c` - Invoice management.
+- `system.c` - Initializes the core data structures. Ensures a clean program termination by calling memory cleanup routines.
+- `products.c` - Handles the product catalog database.
+- `project.c` - The entry point of the application. It contains only the main function.
+- `project.h` - Global constants and structs. 
+- `validations.c` - The core validation layer of the architecture.
 
 ## Compilation
 
