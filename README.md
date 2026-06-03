@@ -30,7 +30,17 @@ This project consists of an invoice system developed in the C programming langua
 - `project.h` - Global constants and structs. 
 - `validations.c` - The core validation layer of the architecture.
 
+## Documentation 
+
+To generate documentation locally, run:
+
+```bash
+doxygen Doxyfile
+```
+
 ## Compilation
+
+To build the executable, run the following command in your terminal:
 ```bash
 gcc -O3 -Wall -Wextra -Werror -Wno-unused-result -o proj *.c
 ```
