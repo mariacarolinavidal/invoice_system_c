@@ -1,7 +1,6 @@
 /**
- * @file faturas.c
+ * @file invoice.c
  * @brief Funções sobre faturas.
- * @author Maria Carolina Vidal ist1118018
  */
 
 
