@@ -32,5 +32,5 @@ This project consists of an invoice system developed in the C programming langua
 
 ## Compilation
 
-$ gcc -O3 -Wall -Wextra -Werror -Wno-unused-result -o proj *.c
+gcc -O3 -Wall -Wextra -Werror -Wno-unused-result -o proj *.c
 
