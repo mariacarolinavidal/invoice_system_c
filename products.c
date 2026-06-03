@@ -1,7 +1,6 @@
 /**
  * @file products.c
  * @brief Funcoes de produtos.
- * @author Maria Carolina Vidal ist1118018
  */
    
 #include "funcoes.h"
