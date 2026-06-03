@@ -1,7 +1,6 @@
 /**
- * @file funcoes.h
+ * @file functions.h
  * @brief Protótipos das funções.
- * @author Maria Carolina Vidal ist1118018
  */
 
 #include "project.h"
