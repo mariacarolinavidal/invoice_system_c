@@ -1,7 +1,6 @@
 /**
- * @file comandos.c
+ * @file commands.c
  * @brief Comandos e parsing.
- * @author Maria Carolina Vidal ist1118018
  */
 
 
