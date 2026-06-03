@@ -31,6 +31,7 @@ This project consists of an invoice system developed in the C programming langua
 - `validations.c` - The core validation layer of the architecture.
 
 ## Compilation
-
+```bash
 gcc -O3 -Wall -Wextra -Werror -Wno-unused-result -o proj *.c
+```
 
