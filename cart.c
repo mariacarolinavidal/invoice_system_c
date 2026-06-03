@@ -1,7 +1,6 @@
 /**
- * @file cesto.c
+ * @file cart.c
  * @brief Funções sobre o cesto.
- * @author Maria Carolina Vidal ist1118018
  */
 
 #include "funcoes.h"
